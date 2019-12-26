@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.42.Final/344ff6fc05315233f0db5d86f94e8a3b5799b995/netty-transport-native-unix-common-4.1.42.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="344ff6fc05315233f0db5d86f94e8a3b5799b995">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/netty-transport-native-unix-common-4.1.42.Final_85ac9090b0b6bc767d32a3144097a95cf8592bab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.42.Final/d8dbcd33944fe1918b536952abbcf33f9ebf2f4/netty-transport-native-epoll-4.1.42.Final-linux-x86_64.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0d8dbcd33944fe1918b536952abbcf33f9ebf2f4">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/netty-transport-native-epoll-4.1.42.Final-linux-x86_64_a5b01c1514c6b17b45ec65dcb80279f4d3adee23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_6b89e427e5f5f5bf957c81d1487795d3a29d1dc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/.gradle/caches/modules-2/files-2.1/com.google.api-client/google-api-client/1.22.0/244350c0c845c583717ade13f5666a452fd0cfa/google-api-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0244350c0c845c583717ade13f5666a452fd0cfa">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/google-api-client-1.22.0_90a56c40733ed52fd0bab8ca76ac16025e9325ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_02b4d3f19ff8a78c6ff60a7d6862e0aff852f826.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.42.Final/b1d5ed85a558fbbadc2783f869fbd0adcd32b07b/netty-codec-4.1.42.Final.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b1d5ed85a558fbbadc2783f869fbd0adcd32b07b">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/netty-codec-4.1.42.Final_e10be175778eae5dbaf98fe0d98a3c6e9cf9defd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c428af4cc54e7c09702ec4f290fa726a4476f3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/.gradle/caches/modules-2/files-2.1/com.google.oauth-client/google-oauth-client/1.22.0/1d63f369ac78e4838a3197147012026e791008cb/google-oauth-client-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="1d63f369ac78e4838a3197147012026e791008cb">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/google-oauth-client-1.22.0_212bc30274ed07cd1a07e4b72310d7f4585c499b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/.gradle/caches/modules-2/files-2.1/com.google.http-client/google-http-client-jackson2/1.22.0/cc014d64ae11117e159d334c99d9c246d9b36f44/google-http-client-jackson2-1.22.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="cc014d64ae11117e159d334c99d9c246d9b36f44">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/google-http-client-jackson2-1.22.0_037af217664920aac8722a136369a214fdc56e30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/Users/yunganw/workspace/Github/weatherforecast/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.0.0_fcddc7085ea189f9ec81f77515466f2f7e20b0f7.jar" />
+    </item>
+
+</items>
